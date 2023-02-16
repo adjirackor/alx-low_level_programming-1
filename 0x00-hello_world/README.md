@@ -9,3 +9,4 @@
 #### 5-printf.c - A C Program that prints a piece of text with printf function
 #### 6-size.c - A C program that determines the size of a C type and prints value in bytes
 #### 100-intel - A script to run a C file through compilation and generate an intel syntx assembly code with -S -masm=intel flags
+#### 101-101-quote - A C program that a quote of string to stderr
