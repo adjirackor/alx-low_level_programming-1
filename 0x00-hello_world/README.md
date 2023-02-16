@@ -7,3 +7,4 @@
 #### 3-name - A script that compiles a C file and creates an executable name cisfun
 #### 4-puts.c - A C program that prints a piece of text with puts function
 #### 5-printf.c - A C Program that prints a piece of text with printf function
+#### 6-size.c - A C program that determines the size of a C type and prints value in bytes
