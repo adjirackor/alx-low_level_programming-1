@@ -5,3 +5,5 @@
 #### 1-compiler - A script to run a C file through compilation to assemble hence does not link using the GNU gcc -c flag
 #### 2-assembler - A script to run a C file through compilation and generate an assembly code and save in an output file
 #### 3-name - A script that compiles a C file and creates an executable name cisfun
+#### 4-puts.c - A C program that prints a piece of text with puts function
+#### 5-printf.c - A C Program that prints a piece of text with printf function
