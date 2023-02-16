@@ -8,3 +8,4 @@
 #### 4-puts.c - A C program that prints a piece of text with puts function
 #### 5-printf.c - A C Program that prints a piece of text with printf function
 #### 6-size.c - A C program that determines the size of a C type and prints value in bytes
+#### 100-intel - A script to run a C file through compilation and generate an intel syntx assembly code with -S -masm=intel flags
