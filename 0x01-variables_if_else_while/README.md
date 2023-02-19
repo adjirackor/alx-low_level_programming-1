@@ -10,3 +10,4 @@
 #### 7-print_tebahpla.c - program that prints the letters of the alphabet in reverse (lowercase)
 #### 8-print_base16.c - program that prints all numbers in base 16 in lowercase
 #### 9-print_comb.c - program that prints all combination of single digits with putchar separated with comma and space
+#### 100-print_comb3.c - program that prints possible combinations of two single digits without repetion of two numbers
