@@ -4,3 +4,4 @@
 #### 1-last_digit.c - program to print the last digit of a random integer
 #### 2-print_alphabet.c - program that prints the all  letters of the alphabet in lower case
 #### 3-print_alphabets.c - program that prints all letters of alphabet both in lower and uppercases
+#### 4-print_alphabt.c - program that prints all letters of alphabet in lowercse except letters q and e
