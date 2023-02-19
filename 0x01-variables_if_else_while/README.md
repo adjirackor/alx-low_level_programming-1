@@ -9,3 +9,4 @@
 #### 6-print_numberz.c - program that prints single digit number using puchar()
 #### 7-print_tebahpla.c - program that prints the letters of the alphabet in reverse (lowercase)
 #### 8-print_base16.c - program that prints all numbers in base 16 in lowercase
+#### 9-print_comb.c - program that prints all combination of single digits with putchar separated with comma and space
