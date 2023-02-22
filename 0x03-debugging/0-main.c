@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * main - tests function that prints state of an integer
+ *
  * Return: 0
  */
 
