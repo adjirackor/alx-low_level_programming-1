@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_line - print the (_) nx 
+ * print_line - print the (_) n times
  * @n: number provided to the function
  */
 void print_line(int n)
