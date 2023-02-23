@@ -11,3 +11,5 @@
 #### 8-print_square.c - function that print a specified size of a square followed by newline
 #### 9-fizz_buzz.c - The FuzzBuzz Test
 #### 10-print_triangle.c - function that prints a specified size of a triangle
+#### 100-prime_factor.c - program that prints the largest prime factor of a number (612852475143)
+#### 101-print_number.c - prints integers using the _putchar function
